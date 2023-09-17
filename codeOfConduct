@@ -15,8 +15,24 @@ These guidelines are for first time contributors to get you started. If you are 
 ## Submitting issues
 
 - Look through existing issues to see if it's something someone already shared. You may be able to provide more information to an existing issue.
-- Provide as much information as you can. We suggest submitting a [reprex]() if it's an issue or bug. Also, see this [guide to writing good bug reports](https://github.com/rstudio/rstudio/wiki/Writing-Good-Bug-Reports) for more on how to write a great bug report.
-- If it's an idea for a feature or change, please describe the change you're proposing, how you would plan to implement it (if you have an idea), and why it's important for the goals of the project. See this [guide to writing feature requests](https://github.com/rstudio/rstudio/wiki/Writing-Good-Feature-Requests) for more on how to write a great feature request.
+- Provide as much information as you can. Please provide this information
+   - System details
+   - Steps to reproduce the problem
+   - Describe what you experienced 
+   - Describe the behaviour you expected
+   - Anything else you like us to know about
+
+
+Optional: We suggest submitting a [reprex(reprodicuble example)]() if it's an issue or bug.
+Also, see this [guide to writing good bug reports](https://github.com/rstudio/rstudio/wiki/Writing-Good-Bug-Reports) for more on how to write a great bug report.
+
+- If it's an idea for a feature or change, please describe the change you're proposing, how you would plan to implement it (if you have an idea), 
+and why it's important for the goals of the project. Please include;
+      - Your interest or motivation dor adding this feature
+      - Ideas you have for implementation
+      - Challenges you anticipate
+
+See this [guide to writing feature requests](https://github.com/rstudio/rstudio/wiki/Writing-Good-Feature-Requests) for more on how to write a great feature request.
 - Use kind language aligned with [how we treat each other] in this project.
 
 ## Submitting pull requests

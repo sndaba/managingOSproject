@@ -37,17 +37,23 @@ See this [guide to writing feature requests](https://github.com/rstudio/rstudio/
 
 ## Submitting pull requests
 
-- Ideally all pull requests should be linked to an issue. If you're considering a pull request not related to an existing issue, please submit an issue for discussion first. See this [guide to writing feature requests](https://github.com/rstudio/rstudio/wiki/Writing-Good-Feature-Requests) for more on how to write a great feature request.
+- Ideally all pull requests should be linked to an issue. If you're considering a pull request not related to an existing issue, please submit an issue for discussion first.
+  See this [guide to writing feature requests](https://github.com/rstudio/rstudio/wiki/Writing-Good-Feature-Requests) for more on how to write a great feature request.
 - With a PR describe what is solved through the PR, and document your code in the style of the project. 
 
 
 ## Expections for response/review
 
-This project is in Active/Stable/Sustaining/Sunset mode. This means we're reviewing this repository on an XYZ basis. So, you may not hear from us for awhile, but we appreciate your contribution!
+This project is in Active/Stable/Sustaining/Sunset mode. This means we're reviewing this repository on an [monthly/hourly/weekly] basis. 
+So, you may not hear from us for awhile, but we appreciate your contribution!
 
 We may:
 * ask questions for more clarity
 * add some changes to your pull request and merge
 * explain why this issue or PR isn't right for this project right now
+
+### Expectations for responses from the priject maintainers | Where to get help
+We do all our correspondence through github and out discord channel. These are the places to get help and ask questions. We cant individually resposnd right now.
+If you have user questions, go to our Google group.
 
 
